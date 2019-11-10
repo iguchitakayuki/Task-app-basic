@@ -6,6 +6,7 @@
 
 body {
   padding-top: 60px;
+  
 }
 
 section {
@@ -116,4 +117,8 @@ p {
   .form-control {
     color: $state-danger-text;
   }
+}
+
+#top-main {
+  background: transparent;
 }
